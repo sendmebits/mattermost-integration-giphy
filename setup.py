@@ -39,7 +39,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'Flask==0.10.1',
+        'Flask==2.2.5',
         'requests==2.10.0',
     ]
 )
