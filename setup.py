@@ -40,6 +40,6 @@ setup(
     zip_safe=False,
     install_requires=[
         'Flask==0.10.1',
-        'requests==2.10.0',
+        'requests==2.32.2',
     ]
 )
